@@ -3,7 +3,7 @@
 def load_mission_data():
     """"Sample mission data"""
     return [
-        {"id":"M001","location":"Kabul","satatus":"Complete","priority":"High"},
+        {"id":"M001","location":"Kabul","status":"Complete","priority":"High"},
         {"id":"M002","location":"Baghdad","status":"Active","priority":"Medium"},
         {"id":"M003","location":"Damascus","status":"Pending","priority":"High"},
         {"id":"M004","location":"Teheran","status":"Complete","priority":"Low"}
